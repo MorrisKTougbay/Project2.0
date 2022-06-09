@@ -1,0 +1,207 @@
+body {
+  line-height: 2rem;
+  color: #191A19;
+  background-color: #FFFFB5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: auto;
+}
+
+span {
+  color: white;
+}
+
+.outline {
+  width: 40%;
+  padding-left: 250px;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 100px;
+  color: #FFD93D;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+.first-container {
+  background-color: #116530;
+  padding-bottom: 50px;
+
+  margin-top: 0;
+}
+
+.middle-container {
+  width: 50%;
+  line-height: 2;
+  padding-bottom: 110px;
+  margin: auto 100px auto 100px;
+  text-align: left;
+}
+
+.bottom-container {
+  padding-top: 30px;
+  background-color: #00541A;
+  margin: 50px auto 0 auto;
+  padding-bottom: 50px;
+}
+
+.petro-services {
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+
+.Entertainment {
+  text-align: left;
+  margin: 0 auto 100px auto;
+}
+
+.music {
+  color: #146C78;
+  text-decoration: underline;
+}
+
+.food {
+  text-align: left;
+  margin: 100 auto 100px auto;
+  padding-top: 100px;
+}
+
+.profile-pic {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.petro {
+  margin-right: 30px;
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+
+.riz1 {
+  margin-right: 30px;
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+
+.food0 {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+  height: 200px;
+}
+
+h2 {
+  color: #207DFF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #421B9B;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: springgreen;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #FFCC1D;
+}
+
+p {
+  color: #2C272E;
+}
+
+hr {
+  border-style: dotted solid;
+  width: 25px;
+  text-align: center;
+  color: black;
+  border-bottom: none;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
+
+.motto {
+  font-size: 2.5rem;
+  color: white;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.contact-me-btn {
+  margin-top: 50px;
+}
+
+.bt {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 3px 4px 0px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 32px;
+  padding: 8px 16px 8px 16px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+  margin: 30px auto;
+}
+
+.btn {
+  color: white;
+  text-decoration: none;
+}
+
+.bt:hover {
+  background: #3cfc69;
+  background-image: -webkit-linear-gradient(top, #3cfc69, #34d989);
+  background-image: -moz-linear-gradient(top, #3cfc69, #34d989);
+  background-image: -ms-linear-gradient(top, #3cfc69, #34d989);
+  background-image: -o-linear-gradient(top, #3cfc69, #34d989);
+  background-image: linear-gradient(to bottom, #3cfc69, #34d989);
+  text-decoration: none;
+}
+
+.youtube {
+  padding-top: 50px;
+  margin-right: 50px;
+}
+
+.facebook {
+  padding-top: 50px;
+  margin-right: 50px;
+}
+
+.Website {
+  margin-right: 50px;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
